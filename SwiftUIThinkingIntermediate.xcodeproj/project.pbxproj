@@ -11,6 +11,7 @@
 		5B12BAB4294352CB009AE09D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B12BAB3294352CB009AE09D /* ContentView.swift */; };
 		5B12BAB6294352CC009AE09D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B12BAB5294352CC009AE09D /* Assets.xcassets */; };
 		5B12BAB9294352CC009AE09D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B12BAB8294352CC009AE09D /* Preview Assets.xcassets */; };
+		5B12BAC029435320009AE09D /* DoCatchTryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B12BABF29435320009AE09D /* DoCatchTryBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5B12BAB3294352CB009AE09D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5B12BAB5294352CC009AE09D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B12BAB8294352CC009AE09D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5B12BABF29435320009AE09D /* DoCatchTryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				5B12BAB3294352CB009AE09D /* ContentView.swift */,
 				5B12BAB5294352CC009AE09D /* Assets.xcassets */,
 				5B12BAB7294352CC009AE09D /* Preview Content */,
+				5B12BABF29435320009AE09D /* DoCatchTryBootcamp.swift */,
 			);
 			path = SwiftUIThinkingIntermediate;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B12BAC029435320009AE09D /* DoCatchTryBootcamp.swift in Sources */,
 				5B12BAB4294352CB009AE09D /* ContentView.swift in Sources */,
 				5B12BAB2294352CB009AE09D /* SwiftUIThinkingIntermediateApp.swift in Sources */,
 			);
