@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIThinkingIntermediateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ImageAsynEscaping()
         }
     }
 }
